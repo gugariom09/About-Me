@@ -16,6 +16,7 @@
 ## 🧰 Tools & Technologies
 
 * SQL (PostgreSQL)
+* Python
 * Microsoft Excel
 * Power BI
 * Data Cleaning & Transformation
