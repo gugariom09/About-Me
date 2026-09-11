@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Gugari
 
-🎯 Aspiring Data Analyst passionate about turning data into meaningful insights
+aspiring Data Science and Artificial Intelligence professional currently pursuing an MSc in Artificial Intelligence & Data Science. I am passionate about working with data, discovering meaningful patterns, solving real-world problems, and exploring how Artificial Intelligence can be used to build smarter and more efficient solutions.
 
 ---
 
